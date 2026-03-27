@@ -1,11 +1,8 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Website card project 
+For this project I follwed the tutorial on Scrimba to create my first ever html website. 
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+At the end of th Challenge, Per set us the challenge of customizing our own website card with CSS and HTML elements to our liking using shapes and borders. 
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
